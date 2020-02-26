@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Maine la scoala</h1>
+<p>si igor ii pidor</p>
+
+</body>
+</html>
